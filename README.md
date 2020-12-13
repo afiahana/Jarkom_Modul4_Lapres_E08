@@ -1,4 +1,5 @@
 # Jarkom_Modul4_Lapres_E08
+### Foto dan bukti kode ada di file yang diupload di github ini
 ## VSLM
 ### Subnetting
 - Melakukan subnetting hingga menjadi seperti gambar di bawah ini
