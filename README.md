@@ -3,9 +3,9 @@
 ## VSLM
 ### Subnetting
 - Melakukan subnetting hingga menjadi seperti gambar di bawah ini
-- ![foto 1a](img/1a.png)
+- Cek file Pembagian VSLM.jpg
 - Melakukan perhitungan IP
-- ![foto 1a](img/1a.png)
+- Cek file "perhitungan ip vslm.xlxs"
 - Membuat pohon
 - ![foto 1a](img/1a.png)
 
